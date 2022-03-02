@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Marine">#024059</color>
+    <color name="Marine_light">#3c6b86</color>
+    <color name="Marine_dark">#001a30</color>
+    <color name="Green">#03a64a</color>
+    <color name="Green_light">#55d978</color>
+    <color name="Green_dark">#00761e</color>
+</resources>
